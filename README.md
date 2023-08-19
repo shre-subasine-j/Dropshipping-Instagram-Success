@@ -4,8 +4,8 @@ This repository showcases my journey in building a thriving dropshipping busines
 ## Business Profiles
 
 ### Toppu Tucker Collections
-**Instagram:** [@toppu_tucker_collections](https://instagram.com/toppu_tucker_collections?igshid=NTc4MTIwNjQ2YQ==)
-**Description:** Discover a variety of trendy clothing products designed to cater to diverse styles and preferences.
+- **Instagram:** [@toppu_tucker_collections](https://instagram.com/toppu_tucker_collections?igshid=NTc4MTIwNjQ2YQ==)
+- **Description:** Discover a variety of trendy clothing products designed to cater to diverse styles and preferences.
 
 ### Toppu Tucker Gifts
 - **Instagram:** [@toppu_tucker_giftings](https://instagram.com/toppu_tucker_giftings?igshid=MzRlODBiNWFlZA==)
